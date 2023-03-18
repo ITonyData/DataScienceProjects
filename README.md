@@ -1,2 +1,1 @@
-# DataScienceProjects
-projects
+# Список проектов:
